@@ -1,0 +1,63 @@
+?xml version='1.0' encoding='UTF-8'?>
+<lexicologue>
+
+<main>
+	<src><scope xml:space="preserve"><ortho><token>ag</token> </ortho><tag tag="prep" /></scope></src>
+	<subentries>
+		<entry entryID="15335">
+			<intro>sg1</intro>
+			<src><scope xml:space="preserve"><ortho><token>agam</token></ortho></scope></src>
+			<trg><scope xml:space="preserve"><ortho><token>at</token> <token>me</token></ortho></scope></trg>
+		</entry>
+		<entry entryID="15336">
+			<intro>sg2</intro>
+			<src><scope xml:space="preserve"><ortho><token>agat</token></ortho></scope></src>
+			<trg><scope xml:space="preserve"><ortho><token>at</token> <token>you</token></ortho></scope></trg>
+		</entry>
+		<entry entryID="15337">
+			<intro>sg3m</intro>
+			<src><scope xml:space="preserve"><ortho><token>aige</token></ortho></scope></src>
+			<trg><scope xml:space="preserve"><ortho><token>at</token> <token>it</token></ortho></scope><scope xml:space="preserve"><ortho><token>at</token> <token>him</token></ortho></scope></trg>
+		</entry>
+		<entry entryID="15338">
+			<intro>sg3f</intro>
+			<src><scope xml:space="preserve"><ortho><token>aici</token></ortho></scope></src>
+			<trg><scope xml:space="preserve"><ortho><token>at</token> <token>her</token></ortho></scope></trg>
+		</entry>
+		<entry entryID="15339">
+			<intro>pl1</intro>
+			<src><scope xml:space="preserve"><ortho><token>againn</token></ortho></scope></src>
+			<trg><scope xml:space="preserve"><ortho><token>at</token> <token>us</token></ortho></scope></trg>
+		</entry>
+		<entry entryID="15340">
+			<intro>pl2</intro>
+			<src><scope xml:space="preserve"><ortho><token>agaibh</token></ortho></scope></src>
+			<trg><scope xml:space="preserve"><ortho><token>at</token> <token>you</token></ortho></scope></trg>
+		</entry>
+		<entry entryID="15341">
+			<intro>pl3</intro>
+			<src><scope xml:space="preserve"><ortho><token>acu</token></ortho></scope></src>
+			<trg><scope xml:space="preserve"><ortho><token>at</token> <token>them</token></ortho></scope></trg>
+		</entry>
+	</subentries>
+</main>
+
+<main>
+	<src><scope xml:space="preserve"><ortho><token>alt</token> </ortho><tag tag="nm" /></scope></src>
+	<subentries>
+		<entry entryID="15343">
+			<intro>gs</intro>
+			<src><scope xml:space="preserve"><ortho><token>ailt</token></ortho></scope></src>
+		</entry>
+		<entry entryID="15344">
+			<intro>npl</intro>
+			<src><scope xml:space="preserve"><ortho><token>altanna</token></ortho></scope><scope xml:space="preserve"><ortho><token>ailt</token></ortho></scope></src>
+		</entry>
+		<entry entryID="15345">
+			<intro>gpl</intro>
+			<src><scope xml:space="preserve"><ortho><token>altanna</token></ortho></scope><scope xml:space="preserve"><ortho><token>alt</token></ortho></scope></src>
+		</entry>
+	</subentries>
+</main>
+
+</lexicologue>
